@@ -1,12 +1,12 @@
 <?php 
  ?>
-
-<main class="text-center">
-
     <section>
         <a href="index.php">
             <button class="btn btn-warning">Voltar</button>
         </a>
+<main class="text-center">
+
+
     
     </section>
 
